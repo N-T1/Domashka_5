@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2ddb80f8-a042-4f07-8b83-8a51d70310c2}</ProjectGuid>
-    <RootNamespace>Domashka5</RootNamespace>
+    <ProjectGuid>{fd033f7a-389d-4b46-a117-466fd6b9f203}</ProjectGuid>
+    <RootNamespace>Domashka5new</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,11 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Domashka_5.cpp" />
-    <ClCompile Include="dom_5.cpp" />
+    <ClCompile Include="Domashka_5_new.cpp" />
+    <ClCompile Include="dom_5_new.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="dom_5.h" />
+    <ClInclude Include="dom_5_new.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
